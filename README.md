@@ -14,6 +14,7 @@ To be Developed:
 * Startup at login
 * Persistent System variable to hold value even after quitting
 * Reset at 12 AM everyday or when machine starts up on a new day.
+* Take in prompt from user to display after the counter variable. eg. 0 "Applications Done"; 5 "Tasks to be Done" etc.
 
 Issues:
 
